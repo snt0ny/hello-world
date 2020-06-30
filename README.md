@@ -1,5 +1,4 @@
 # hello-world
-git tutorial
 
 The Snow Man<p>
 <br>
